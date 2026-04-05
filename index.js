@@ -132,4 +132,4 @@
       }
     });
 
-   client.login(process.env.TOKEN);
+   client.login("COLE_SEU_TOKEN_AQUI");
