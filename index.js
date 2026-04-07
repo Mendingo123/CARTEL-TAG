@@ -33,7 +33,7 @@ client.once("ready", async () => {
   console.log(`Bot ligado como ${client.user.tag}`);
 
   const canal = client.channels.cache.find(
-    c => c.name === "tentando-bot"
+    c => c.name === "🚀・pedir-set-fac"
   );
 
   if (!canal) return console.log("Canal não encontrado");
